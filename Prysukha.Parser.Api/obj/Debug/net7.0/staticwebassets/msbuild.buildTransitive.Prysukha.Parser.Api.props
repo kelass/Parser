@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Prysukha.Parser.Api.props" />
+</Project>

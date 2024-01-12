@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Prysukha.Parser.Api.props" />
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\bin\Debug\net7.0\Prysukha.Parser.Domain.deps.json
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\bin\Debug\net7.0\Prysukha.Parser.Domain.dll
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\bin\Debug\net7.0\Prysukha.Parser.Domain.pdb
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.AssemblyInfoInputs.cache
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.AssemblyInfo.cs
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.dll
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\refint\Prysukha.Parser.Domain.dll
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\Prysukha.Parser.Domain.pdb
+C:\Users\kelas\source\repos\NewRepo\Prysukha.Parser\Prysukha.Parser.Domain\obj\Debug\net7.0\ref\Prysukha.Parser.Domain.dll
